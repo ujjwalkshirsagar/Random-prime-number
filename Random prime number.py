@@ -19,6 +19,7 @@ def isPrime(x):
     return True
 
 
+
 def genPrime(currentPrime):
     
      #Returns the next prime after the currentPrime
